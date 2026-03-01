@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Stage of the ground",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T14:12:34.779536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stage of the ground",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Stage_of_the_ground_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stage of the ground",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/02_Stage_of_the_ground_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01. Stage of the Ground",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/03_01._Stage_of_the_Ground_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stage of the ground",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_Stage_of_the_ground_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stage of the ground",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_Stage_of_the_ground_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "08. Stage of the Ground",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/06_08._Stage_of_the_Ground_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stage of the ground",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Stage_of_the_ground_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
